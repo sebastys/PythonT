@@ -7,7 +7,7 @@ Comentario 1
 Comentario 2
 Comentario 3
 '''
-nombre1="Fran"
+nombre1="Francisco"
 nombre2="Santi"
 nombre3="José Manuel"
 #Asignación equivalente:
