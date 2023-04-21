@@ -1,0 +1,1 @@
+print(__name__)#modulo_3 o __main__
